@@ -1,4 +1,4 @@
-## product name -
+## product name - juju
 
 
 ### what is this?
@@ -29,12 +29,12 @@ i am trying not to fill this with lorem ipsum so here goes, i'll just list users
 this was built entirely with love on an eventful day with:
 
 - markdown
-- <3
+- ❤️
 
 ### what's coming next
 i am not sure how much better you can make this, it's already pretty badass. maybe do a one pass for grammatical errors and keep going through repos to find new ways to make this colt even cooler. oooh! maybe make a library that'll auto generate a readme with this template
 
 ### want to help make this better?
-you are a massive nerd if you want to contribute to this, i support you still. just make a pr with any changes you have or shoot me a dm on twitter
+you are a massive nerd if you think this is cool and want to contribute to it😂, i love you still. just make a pr with any changes you have or shoot me a dm on twitter
 
 [//]: # (So depending on use case, you may want to keep the documentation short. in that case you may not need to include the last two sections or you can)
